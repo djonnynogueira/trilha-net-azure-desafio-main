@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net8.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/0189c5b3-45a8-41b3-adfd-908570b50415/resourceGroups/desafiodiocsharp/providers/Microsoft.Web/sites/desafiodiocsharp"
+}
